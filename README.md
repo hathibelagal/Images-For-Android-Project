@@ -2,7 +2,7 @@
 
 ### Author: Hathibelagal
 
-This is a collection of 96px x 96px images you can use in your Android project. It has 8 portraits which are available in the public domain, and one icon from Google's material icons library.
+This is a collection of 96px x 96px images you can use in your Android project. It has 7 portraits which are available in the public domain, and one icon from Google's material icons library.
 
 ## More about the portraits
 
@@ -15,8 +15,6 @@ This is a collection of 96px x 96px images you can use in your Android project. 
 [Portrait of an Unknown Woman](https://commons.wikimedia.org/wiki/File:Kramskoy_Portrait_of_a_Woman.jpg)
 
 [Returned from the market](https://commons.wikimedia.org/wiki/File:Le_retour_du_march%C3%A9.jpg)
-
-[Veronica Veronese](https://commons.wikimedia.org/wiki/File:Veronica_Veronese_DAM.jpg)
 
 [Gabrielle Cot](https://commons.wikimedia.org/wiki/File:Gabrielle_Cot_1890.jpg)
 
