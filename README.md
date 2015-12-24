@@ -1,4 +1,4 @@
-# Image Resources for Tuts+ Android Animations Course
+# Public Domain Images
 
 ### Author: Hathibelagal
 
