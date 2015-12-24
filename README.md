@@ -2,7 +2,7 @@
 
 ### Author: Hathibelagal
 
-This is a collection of 96px x 96px images you can use in your Android project. It has 8 portraits which are currently in the public domain, and one icon from Google's material icons library.
+This is a collection of 96px x 96px images you can use in your Android project. It has 8 portraits which are available in the public domain, and one icon from Google's material icons library.
 
 ## More about the portraits
 
