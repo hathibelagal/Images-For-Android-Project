@@ -4,6 +4,8 @@
 
 This is a collection of 96px x 96px images you can use in your Android project. It has 8 portraits which are currently in the public domain, and one icon from Google's material icons library.
 
+## More about the portraits
+
 [Madame Paul-Sigisbert Moitessier (1856)](https://en.wikipedia.org/wiki/File:Dominique_Ingres_-_Mme_Moitessier.jpg)
 
 [Portrait of Madame de Pompadour at her Tambour Frame](https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois-Hubert_DROUAIS_1763-4._London_NG._Madame_de_Pompadour_at_her_Tambour_Frame..jpg)
